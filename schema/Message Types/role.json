@@ -1,0 +1,7 @@
+{
+  "name": "STRING",
+  "team": "STRING",
+  "sprite": "BASE64 STRING",
+  "gameId": "SHORT",
+  "owner": "STRING",
+}

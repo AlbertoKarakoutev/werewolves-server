@@ -1,0 +1,7 @@
+{
+	"list": ["STRING"] (Optional),
+	"targetCount": "STRING" (Optional),
+	"awokenRole": "STRING" (Optional),
+	"message": "STRING",
+	"role": "STRING"	
+}

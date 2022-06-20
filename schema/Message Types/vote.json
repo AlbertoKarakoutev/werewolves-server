@@ -1,0 +1,6 @@
+{
+	"votees": ["STRING"],
+	"type": @Vote.Type,
+	"cycle": "INTEGER",
+	"id": "UUID"
+}

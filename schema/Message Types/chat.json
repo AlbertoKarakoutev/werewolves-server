@@ -1,0 +1,12 @@
+{
+	"messages": [
+		{
+			"ts": "INSTANT",
+			"sender": "STRING",
+			"message": "STRING"
+		}
+	],
+	"type": @Chat.Type,
+	"cycle": "INTEGER",
+	"id": "UUID"	
+}

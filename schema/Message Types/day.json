@@ -1,0 +1,13 @@
+{
+	"summary": {
+		"dead": ["STRING"],
+		"hagged": "STRING",
+		"silenced": "STRING",
+		"troublemaker": "STRING"
+	},
+	"players": ["STRING"],
+	"vote": @Vote,
+	"cycle": "INTEGER",
+	"chat": "UUID",
+	"message": "STRING"
+}

@@ -1,0 +1,8 @@
+{
+	"targetCount": "INTEGER",
+	"chat": @Chat,
+	"vote": @Vote,
+	"message": "STRING",
+	"voter": "STRING",
+	"team": ["STRING"]
+}
